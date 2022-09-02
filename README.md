@@ -6,7 +6,7 @@
 
 ### Just make sure you have installed Node.js on your machine and run the following command:
 
-**npm install substract-two-numbers**
+**npm install**
 
 ```
 const result = require('substract-two-numbers')
