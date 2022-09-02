@@ -1,0 +1,24 @@
+{
+  "name": "substract-two-numbers",
+  "version": "1.0.0",
+  "description": "small demo library two substract two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhurijawadekar-16/substract-two-numbers.git"
+  },
+  "keywords": [
+    "substract",
+    "two",
+    "numbers"
+  ],
+  "author": "Madhuri Jawadekar <madhurijawadekar1997@gmail.com> (https://madhurijawadekar.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madhurijawadekar-16/substract-two-numbers/issues"
+  },
+  "homepage": "https://github.com/madhurijawadekar-16/substract-two-numbers#readme"
+}
